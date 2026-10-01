@@ -1,2 +1,6 @@
 # bbc5008.github.io
-personal page
+
+Static GitHub Pages website for showcasing a personal resume.
+
+- Main page: `/index.html`
+- Downloadable PDF resume: `/resume.pdf`
