@@ -238,7 +238,9 @@ permalink: /resume/
   <ul class="responsibilities">
     <li>Designed, deployed, and maintained a personal on-premises and remote home lab.</li>
     <li>Implemented and administered a pfSense firewall and router with OpenVPN and IPsec server to support secure remote access, network segmentation, traffic inspection, and site-to-site communication.</li>
-    <li>Deployed and managed a TrueNAS Core server hosting multiple jails running server and infrastructure services.</li>
+    <li>Deployed and managed a Pfsense appliance, Juniper managed switch, TrueNAS Core server hosting
+multiple jails running server and infrastructure services and a TrueNAS Scale server with multiple
+docker containers.</li>
     <li>Tested system hardening, firewall rules, and access controls to improve security posture and resilience.</li>
     <li>Automated system configuration, monitoring, and data collection using Python, Bash, and PowerShell.</li>
     <li>Performed network traffic analysis, monitoring, and segmentation testing to improve visibility, resilience, and defensive capabilities.</li>
