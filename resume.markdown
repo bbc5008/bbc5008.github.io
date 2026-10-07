@@ -7,7 +7,7 @@ permalink: /resume/
 
 <header class="resume-header">
   <img class="headshot"
-       src="{{ '/assets/images/headshot.png' | relative_url }}"
+       src="{{ '/assets/images/headshot.jpg' | relative_url }}"
        alt="Brandon Cox">
 
   <div class="identity">
@@ -29,8 +29,40 @@ permalink: /resume/
          download>
         Download Résumé
       </a>
+      <button class="video-button"
+          id="video-intro-button"
+          type="button">
+    ▶ Video Introduction
+  </button>
     </div>
   </div>
+  <dialog id="video-intro-modal"
+        class="video-modal"
+        aria-labelledby="video-intro-title">
+
+  <div class="video-modal-content">
+    <div class="video-modal-header">
+      <h2 id="video-intro-title">Video Introduction</h2>
+
+      <button class="video-close"
+              id="video-intro-close"
+              type="button"
+              aria-label="Close video introduction">
+        &times;
+      </button>
+    </div>
+
+    <video id="video-intro"
+           class="video-intro"
+           controls
+           preload="metadata"
+           poster="{{ '/assets/images/video-intro-poster.png' | relative_url }}">
+      <source src="{{ '/assets/video/Introduction.mp4' | relative_url }}"
+              type="video/mp4">
+      Your browser does not support HTML5 video.
+    </video>
+  </div>
+</dialog>
 </header>
 
 <section class="resume-section">
@@ -214,4 +246,30 @@ permalink: /resume/
   </ul>
 </section>
 
+<script>
+  const videoButton = document.getElementById("video-intro-button");
+  const videoModal = document.getElementById("video-intro-modal");
+  const videoClose = document.getElementById("video-intro-close");
+  const video = document.getElementById("video-intro");
 
+  videoButton.addEventListener("click", () => {
+    videoModal.showModal();
+  });
+
+  videoClose.addEventListener("click", () => {
+    videoModal.close();
+  });
+
+  // Clicking the backdrop closes the dialog.
+  videoModal.addEventListener("click", (event) => {
+    if (event.target === videoModal) {
+      videoModal.close();
+    }
+  });
+
+  // Stop and reset the video whenever the dialog closes.
+  videoModal.addEventListener("close", () => {
+    video.pause();
+    video.currentTime = 0;
+  });
+</script>
