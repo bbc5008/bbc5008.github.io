@@ -12,7 +12,7 @@ permalink: /resume/
 
   <div class="identity">
     <h1>Brandon W. B. Cox</h1>
-    <p class="tagline">Digital Forensics · Cybersecurity · Information Technology</p>
+    <p class="tagline">Security Analyst · Incident Response · Digital Forensics · Information Technology</p>
 
     <p class="contact">
       Wilmington, Delaware, 19808<br>
@@ -108,7 +108,7 @@ permalink: /resume/
   <article class="job">
     <div class="job-primary">
       <h3>Digital Forensic Examiner</h3>
-      <span class="job-date">2022 – 2026</span>
+      <span class="job-date">Sep 2022 – April 2026</span>
     </div>
     <div class="job-secondary">
       <span class="employer">Parcels Inc</span>
@@ -117,12 +117,11 @@ permalink: /resume/
     <p class="job-description">Litigation Support company providing Legal Services and Security Consulting</p>
     <ul class="responsibilities">
       <li>Led forensic collection and artifact analysis to support lawyers and clients.</li>
-      <li>Develop Python, Bash, and PowerShell automation to accelerate evidence collection, processing, and analysis during time-sensitive incidents.</li>
-      <li>Designed, developed, and implemented forensic lab infrastructure, tools, SOPs, and workflows aligned with DFIR best practices.</li>
+      <li>Designed, developed, and implemented forensic lab infrastructure, tools, SOPs, and workflows aligned with DFIR best practices and addressing gaps in ISO 27001 compliance.</li>
       <li>Prepared detailed forensic reports documenting investigative findings, technical analysis, remediation recommendations, and incident timelines for stakeholders.</li>
-      <li>Support expansion into cybersecurity consulting and incident response services, including process design and tool evaluation.</li>
-      <li>Developed a remote collection stack, drastically shortening collection time and reducing costs by thousands of dollars per collection.</li>
-      <li>Developed custom software and scripts to solve unique collection and data analysis problems.</li>
+      <li>Support expansion into cybersecurity consulting and incident response services, including process design and tool evaluation, increasing business opportunities and contracts</li>
+      <li>Developed remote collection stack using spare computer hardware, usb sharing server software, VNC, and Tailscale over the course of a week, drastically shortening collection time and costs by tens of thousands of dollars per year.</li>
+      <li>Developed custom software and scripts in Python, Bash, and Powershell to solve unique collection and data analysis problems, saving significant time, increasing consistency, and reducing turnaround time on requests from days to hours.</li>
       <li>Delivered international training on macOS forensics to Albanian law enforcement in collaboration with the U.S. State Department.</li>
       <li>Present Continuing Legal Education (CLE) training to the Delaware Bar Association on digital forensics and cybersecurity topics.</li>
     </ul>
@@ -142,7 +141,7 @@ permalink: /resume/
       <div class="subrole">
         <div class="subrole-header">
           <h4>Senior Business Analyst</h4>
-          <span class="subrole-date">2018 – 2022</span>
+          <span class="subrole-date">Dec 2018 – Sep 2022</span>
         </div>
         <ul class="responsibilities">
           <li>Supported enterprise IT and security operations across large-scale healthcare environments involving regulated systems and sensitive data.</li>
@@ -155,7 +154,7 @@ permalink: /resume/
       <div class="subrole">
         <div class="subrole-header">
           <h4>Integration Analyst</h4>
-          <span class="subrole-date">2019 – 2022</span>
+          <span class="subrole-date">Apr 2019 – Sep 2022</span>
         </div>
         <ul class="responsibilities">
           <li>Implemented new integrations with client software.</li>
@@ -166,7 +165,7 @@ permalink: /resume/
       <div class="subrole">
         <div class="subrole-header">
           <h4>Implementation Analyst</h4>
-          <span class="subrole-date">2015 – 2022</span>
+          <span class="subrole-date">Feb 2014 – Sep 2022</span>
         </div>
         <ul class="responsibilities">
           <li>Implemented and maintained Rehab Optima EMR software for business instances.</li>
@@ -177,8 +176,8 @@ permalink: /resume/
 
       <div class="subrole">
         <div class="subrole-header">
-          <h4>IT Analyst</h4>
-          <span class="subrole-date">2013 – 2014</span>
+          <h4>Business Analyst</h4>
+          <span class="subrole-date">Nov 2013 – Feb 2014</span>
         </div>
         <ul class="responsibilities">
           <li>Supported software users by troubleshooting technical issues, answering calls, and creating, updating, and resolving tickets.</li>
@@ -190,8 +189,8 @@ permalink: /resume/
 
   <article class="job">
     <div class="job-primary">
-      <h3>Jr. Enterprise Architect</h3>
-      <span class="job-date">2012 – 2013</span>
+      <h3>Jr. Integration Analyst</h3>
+      <span class="job-date">Oct 2012 – Nov 2013</span>
     </div>
     <div class="job-secondary">
       <span class="employer">Confiance Group</span>
