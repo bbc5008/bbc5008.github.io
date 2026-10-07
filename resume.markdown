@@ -7,7 +7,7 @@ permalink: /resume/
 
 <header class="resume-header">
   <img class="headshot"
-       src="{{ '/assets/images/headshot.jpg' | relative_url }}"
+       src="{{ '/assets/images/headshot.png' | relative_url }}"
        alt="Brandon Cox">
 
   <div class="identity">
@@ -15,10 +15,12 @@ permalink: /resume/
     <p class="tagline">Digital Forensics · Cybersecurity · Information Technology</p>
 
     <p class="contact">
-      Wilmington, Delaware<br>
-      <a href="mailto:bbc5008@gmail.com">bbc5008@gmail.com</a>
+      Wilmington, Delaware, 19808<br>
+      <a href="mailto:contact@brandon-w-b-cox.com">contact@brandon-w-b-cox.com</a>
       ·
       <a href="https://www.linkedin.com/in/brandon-w-b-cox/">LinkedIn</a>
+      ·
+      302-402-3891
     </p>
 
     <div class="resume-actions">
@@ -50,6 +52,22 @@ permalink: /resume/
     <li><strong>Tools &amp; Platforms:</strong> Magnet Axiom, Cellebrite, FTK Imager, Autopsy, Wireshark, Nessus, Microsoft Purview, Forensic Email Collector, Office 365, Google Workspace, Python, Bash, PowerShell, SQL, Virtual Machines, Docker</li>
     <li><strong>Methodologies:</strong> ISO 27001 audit readiness, Windows, Linux, BSD Unix, macOS, Cloud Computing</li>
   </ul>
+</section>
+
+<section class="resume-section certification-section">
+  <h2>Certifications</h2>
+  <div class="certification">
+    <span class="certification-name">CompTIA Security+</span>
+    <span class="certification-date">May 2026</span>
+  </div>
+  <div class="certification">
+    <span class="certification-name">Magnet Certified Forensic Examiner</span>
+    <span class="certification-date">October 2024</span>
+  </div>
+  <div class="certification">
+    <span class="certification-name">Certified Forensic Mac Examiner</span>
+    <span class="certification-date">May 2024</span>
+  </div>
 </section>
 
 <section class="resume-section experience-section">
@@ -196,18 +214,4 @@ permalink: /resume/
   </ul>
 </section>
 
-<section class="resume-section certification-section">
-  <h2>Certifications</h2>
-  <div class="certification">
-    <span class="certification-name">CompTIA Security+</span>
-    <span class="certification-date">May 2026</span>
-  </div>
-  <div class="certification">
-    <span class="certification-name">Magnet Certified Forensic Examiner</span>
-    <span class="certification-date">October 2024</span>
-  </div>
-  <div class="certification">
-    <span class="certification-name">Certified Forensic Mac Examiner</span>
-    <span class="certification-date">May 2024</span>
-  </div>
-</section>
+
