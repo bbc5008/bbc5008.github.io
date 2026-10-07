@@ -25,7 +25,7 @@ permalink: /resume/
 
     <div class="resume-actions">
       <a class="download-button"
-         href="{{ '/assets/files/brandon-cox-resume.pdf' | relative_url }}"
+         href="{{ '/assets/files/resume.pdf' | relative_url }}"
          download>
         Download Résumé
       </a>
