@@ -211,7 +211,7 @@ permalink: /resume/
   <div class="education-entry">
     <div class="education-primary">
       <h3>Master of Science in Cybersecurity</h3>
-      <span class="education-date">2023</span>
+      <span class="education-date">Aug 2023</span>
     </div>
     <div class="education-secondary">University of Delaware — Newark, DE</div>
   </div>
@@ -219,7 +219,7 @@ permalink: /resume/
   <div class="education-entry">
     <div class="education-primary">
       <h3>Master of Science in Business Analytics &amp; Information Management</h3>
-      <span class="education-date">2023</span>
+      <span class="education-date">Aug 2023</span>
     </div>
     <div class="education-secondary">University of Delaware — Newark, DE · GPA 3.98</div>
   </div>
@@ -227,7 +227,7 @@ permalink: /resume/
   <div class="education-entry">
     <div class="education-primary">
       <h3>Bachelor of Science in Information Science &amp; Technology</h3>
-      <span class="education-date">2012</span>
+      <span class="education-date">Aug 2012</span>
     </div>
     <div class="education-secondary">Pennsylvania State University — University Park, PA · Minor in Security &amp; Risk Analysis</div>
   </div>
