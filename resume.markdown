@@ -252,9 +252,13 @@ permalink: /resume/
   const videoClose = document.getElementById("video-intro-close");
   const video = document.getElementById("video-intro");
 
-  videoButton.addEventListener("click", () => {
-    videoModal.showModal();
-  });
+ videoButton.addEventListener("click", () => {
+  videoModal.showModal();
+
+  if (video.readyState < HTMLMediaElement.HAVE_FUTURE_DATA) {
+    video.load();
+  }
+});
 
   videoClose.addEventListener("click", () => {
     videoModal.close();
