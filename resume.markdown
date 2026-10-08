@@ -68,8 +68,7 @@ permalink: /resume/
 <section class="resume-section">
   <h2>Professional Overview</h2>
   <p>
-    Digital Forensics Examiner and IT professional with 4 years of experience
-    driving technical execution across Electronic Discovery and forensic
+    Security Analyst, Digital Forensics, and Cybersecurity and IT professional with 4 years of experience driving technical execution across Electronic Discovery and forensic
     analysis within the Wilmington legal community and 10 years experience in
     Healthcare IT roles. Master's degrees in Cybersecurity and Business
     Analytics and Information Management. Certifications in Digital Forensics
@@ -107,7 +106,7 @@ permalink: /resume/
 
   <article class="job">
     <div class="job-primary">
-      <h3>Digital Forensic Examiner</h3>
+      <h3>Security Analyst, Digital Forensics Examiner</h3>
       <span class="job-date">Sep 2022 – April 2026</span>
     </div>
     <div class="job-secondary">
