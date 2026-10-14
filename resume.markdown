@@ -110,7 +110,7 @@ permalink: /resume/
       <span class="employer">Self Employed</span>
       <span class="job-location">— Wilmington, DE</span>
     </div>
-    <p class="job-description">Cybersecurity Analyst</p>
+    <p class="job-description">Independent consulting on Cybersecurity assessments and business infrastructure </p>
     <ul class="responsibilities">
       <li>Installed, configured, and administered firewalls, VPNs, managed switches, and NAS infrastructure.</li>
       <li>Scanned network segments for security vulnerabilities and misconfigurations.</li>
