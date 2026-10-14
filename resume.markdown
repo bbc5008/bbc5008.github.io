@@ -79,7 +79,7 @@ permalink: /resume/
   <ul class="skills-list">
     <li><strong>Cybersecurity &amp; Security Operations:</strong> Incident Response, Digital Forensics, Log Analysis, Vulnerability 	Assessment, Operating System Hardening, Network Security, Firewall Administration, Access Control, Electronic Discovery, ISO 27001 Audit Readiness</li>
     <li><strong>Security Tools &amp; Technologies:</strong> Splunk, Wireshark, Nessus, OpenVAS, Magnet AXIOM, Cellebrite, FTK Imager, Autopsy, Microsoft Purview, Forensic Email Collector</li>
-    <li><strong>Windows, Linux, macOS, FreeBSD, Office 365, Google Workspace, GCP, AWS, Virtualization, Docker, Python, PowerShell, Bash, SQL, Git, pfSense, TrueNAS, ProxMox, Network Segmentation, VPN Administration</li>
+    <li><strong>Systems, Infrastructure &amp; Automation:</strong> Windows, Linux, macOS, FreeBSD, Office 365, Google Workspace, GCP, AWS, Virtualization, Docker, Python, PowerShell, Bash, SQL, Git, pfSense, TrueNAS, ProxMox, Network Segmentation, VPN Administration</li>
   </ul>
 </section>
 
@@ -129,7 +129,7 @@ permalink: /resume/
       <span class="employer">Parcels Inc</span>
       <span class="job-location">— Wilmington, DE</span>
     </div>
-    <p class="job-description">Litigation Support company providing Legal Services and Security Consulting</p>
+    <p class="job-description">Family owned Litigation Support company with 250 employees providing Legal Services and Security Consulting.</p>
     <ul class="responsibilities">
       <li>Led forensic collection and artifact analysis, generating hundreds of thousands of dollars of revenue.</li>
       <li>Designed, developed, and implemented forensic lab infrastructure, tools, SOPs, and workflows aligned with DFIR best practices and addressing gaps in ISO 27001 compliance.</li>
@@ -150,7 +150,7 @@ permalink: /resume/
     <div class="job-secondary">
       <span class="job-location">Kennett Square, PA</span>
     </div>
-    <p class="job-description">Largest Rehabilitation Therapy provider in the United States</p>
+    <p class="job-description">Publicly traded healthcare company, Largest Rehabilitation Therapy provider in the United States with over 150,000 employees.</p>
 
     <div class="subroles">
       <div class="subrole">
@@ -211,7 +211,7 @@ permalink: /resume/
       <span class="employer">Confiance Group</span>
       <span class="job-location">— Remote</span>
     </div>
-    <p class="job-description">Consulting company assisting clients with technical architecture and business processes</p>
+    <p class="job-description">Privately owned small consulting company consisting of a dozen employees assisting clients with technical architecture and business process management.</p>
     <ul class="responsibilities">
       <li>Supported global IT infrastructure monitoring and reporting initiatives for pharmaceutical clients.</li>
       <li>Modeled and improved business and technical processes to enhance system reliability and visibility.</li>
