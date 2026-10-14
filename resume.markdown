@@ -79,7 +79,7 @@ permalink: /resume/
   <ul class="skills-list">
     <li><strong>Cybersecurity &amp; Security Operations:</strong> Incident Response, Digital Forensics, Log Analysis, Vulnerability 	Assessment, Operating System Hardening, Network Security, Firewall Administration, Access Control, Electronic Discovery, ISO 27001 Audit Readiness</li>
     <li><strong>Security Tools &amp; Technologies:</strong> Splunk, Wireshark, Nessus, OpenVAS, Magnet AXIOM, Cellebrite, FTK Imager, Autopsy, Microsoft Purview, Forensic Email Collector</li>
-    <li><strong>Windows, Linux, macOS, FreeBSD, Office 365, Google Workspace, GCP, AWS, Virtualization, Docker, Python, PowerShell, Bash, SQL, pfSense, TrueNAS, ProxMox, Network Segmentation, VPN Administration</li>
+    <li><strong>Windows, Linux, macOS, FreeBSD, Office 365, Google Workspace, GCP, AWS, Virtualization, Docker, Python, PowerShell, Bash, SQL, Git, pfSense, TrueNAS, ProxMox, Network Segmentation, VPN Administration</li>
   </ul>
 </section>
 
