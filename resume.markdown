@@ -15,12 +15,14 @@ permalink: /resume/
     <p class="tagline">Security Analyst · Incident Response · Digital Forensics · Information Technology</p>
 
     <p class="contact">
-      Wilmington, Delaware, 19808<br>
+      Wilmington, Delaware | Greater Philadelphia Area | 19808<br>
       <a href="mailto:contact@brandon-w-b-cox.com">contact@brandon-w-b-cox.com</a>
+      ·
+      <a href="mailto:bbc5008@gmail.com">bbc5008@gmail.com</a>
       ·
       <a href="https://www.linkedin.com/in/brandon-w-b-cox/">LinkedIn</a>
       ·
-      302-402-3891
+      +1 302-275-8811
     </p>
 
     <div class="resume-actions">
@@ -68,20 +70,16 @@ permalink: /resume/
 <section class="resume-section">
   <h2>Professional Overview</h2>
   <p>
-    Security Analyst, Digital Forensics, and Cybersecurity and IT professional with 4 years of experience driving technical execution across Electronic Discovery and forensic
-    analysis within the Wilmington legal community and 10 years experience in
-    Healthcare IT roles. Master's degrees in Cybersecurity and Business
-    Analytics and Information Management. Certifications in Digital Forensics
-    and Information Security.
+    Security Analyst, Digital Forensics, and Cybersecurity and IT professional with 4 years of experience in cyber security compliance consulting, digital forensics acquisition and analysis, and electronic discovery in the Wilmington legal community and 10 years experience in healthcare IT roles. Master's degrees in Cyber security and Business Analytics and Information Management. Certifications in Digital Forensics and Information Security.
   </p>
 </section>
 
 <section class="resume-section">
   <h2>Technical Skills</h2>
   <ul class="skills-list">
-    <li><strong>Categories:</strong> Digital Forensics, Scripting, Databases, Cybersecurity, Operating System Hardening, Firewalls, Log Analysis, Vulnerability Assessment, Incident Response, Electronic Discovery, Access Controls</li>
-    <li><strong>Tools &amp; Platforms:</strong> Magnet Axiom, Cellebrite, FTK Imager, Autopsy, Wireshark, Nessus, Microsoft Purview, Forensic Email Collector, Office 365, Google Workspace, Python, Bash, PowerShell, SQL, Virtual Machines, Docker</li>
-    <li><strong>Methodologies:</strong> ISO 27001 audit readiness, Windows, Linux, BSD Unix, macOS, Cloud Computing</li>
+    <li><strong>Cybersecurity &amp; Security Operations:</strong> Incident Response, Digital Forensics, Log Analysis, Vulnerability 	Assessment, Operating System Hardening, Network Security, Firewall Administration, Access Control, Electronic Discovery, ISO 27001 Audit Readiness</li>
+    <li><strong>Security Tools &amp; Technologies:</strong> Splunk, Wireshark, Nessus, OpenVAS, Magnet AXIOM, Cellebrite, FTK Imager, Autopsy, Microsoft Purview, Forensic Email Collector</li>
+    <li><strong>Systems, Infrastructure &amp; Automation:</strong> Windows, Linux, macOS, FreeBSD, Office 365, Google Workspace, GCP, AWS, Virtualization, Docker, Python, PowerShell, Bash, SQL, Git, pfSense, TrueNAS, ProxMox, Network Segmentation, VPN Administration</li>
   </ul>
 </section>
 
@@ -103,6 +101,24 @@ permalink: /resume/
 
 <section class="resume-section experience-section">
   <h2>Professional Experience</h2>
+  <article class="job">
+    <div class="job-primary">
+      <h3>Freelance Security Analyst</h3>
+      <span class="job-date">Apr 2026 – Current</span>
+    </div>
+    <div class="job-secondary">
+      <span class="employer">Self Employed</span>
+      <span class="job-location">— Wilmington, DE</span>
+    </div>
+    <p class="job-description">Independent consulting on Cybersecurity assessments and business infrastructure </p>
+    <ul class="responsibilities">
+      <li>Installed, configured, and administered firewalls, VPNs, managed switches, and NAS infrastructure.</li>
+      <li>Scanned network segments for security vulnerabilities and misconfigurations.</li>
+      <li>Hardened infrastructure via network segmentation, OS, service configurations, and log storage.</li>
+      <li>Implemented monitoring tools to improve visibility using Splunk.</li>
+      <li>Implemented offsite backups and regular backup regimens to protect critical data.</li>
+    </ul>
+  </article>
 
   <article class="job">
     <div class="job-primary">
@@ -113,13 +129,13 @@ permalink: /resume/
       <span class="employer">Parcels Inc</span>
       <span class="job-location">— Wilmington, DE</span>
     </div>
-    <p class="job-description">Litigation Support company providing Legal Services and Security Consulting</p>
+    <p class="job-description">Family owned Litigation Support company with 250 employees providing Legal Services and Security Consulting.</p>
     <ul class="responsibilities">
-      <li>Led forensic collection and artifact analysis to support lawyers and clients.</li>
+      <li>Led forensic collection and artifact analysis, generating hundreds of thousands of dollars of revenue.</li>
       <li>Designed, developed, and implemented forensic lab infrastructure, tools, SOPs, and workflows aligned with DFIR best practices and addressing gaps in ISO 27001 compliance.</li>
-      <li>Prepared detailed forensic reports documenting investigative findings, technical analysis, remediation recommendations, and incident timelines for stakeholders.</li>
-      <li>Support expansion into cybersecurity consulting and incident response services, including process design and tool evaluation, increasing business opportunities and contracts</li>
-      <li>Developed remote collection stack using spare computer hardware, usb sharing server software, VNC, and Tailscale over the course of a week, drastically shortening collection time and costs by tens of thousands of dollars per year.</li>
+      <li>Prepared detailed forensic reports documenting investigative findings, technical analysis, remediation recommendations, and incident timelines for business, legal, and technical stakeholders.</li>
+      <li>Support expansion into cybersecurity consulting and incident response services, including process design and tool evaluation, increasing business opportunities and contracts.</li>
+      <li>Developed remote collection stack using spare computer hardware, usb sharing server software, VNC, and Tailscale over the course of a week, drastically shortening collection time from days to hours and costs to business and clients by tens of thousands of dollars per year, and increasing throughput.</li>
       <li>Developed custom software and scripts in Python, Bash, and Powershell to solve unique collection and data analysis problems, saving significant time, increasing consistency, and reducing turnaround time on requests from days to hours.</li>
       <li>Delivered international training on macOS forensics to Albanian law enforcement in collaboration with the U.S. State Department.</li>
       <li>Present Continuing Legal Education (CLE) training to the Delaware Bar Association on digital forensics and cybersecurity topics.</li>
@@ -134,7 +150,7 @@ permalink: /resume/
     <div class="job-secondary">
       <span class="job-location">Kennett Square, PA</span>
     </div>
-    <p class="job-description">Largest Rehabilitation Therapy provider in the United States</p>
+    <p class="job-description">Publicly traded healthcare company, Largest Rehabilitation Therapy provider in the United States with over 150,000 employees.</p>
 
     <div class="subroles">
       <div class="subrole">
@@ -195,7 +211,7 @@ permalink: /resume/
       <span class="employer">Confiance Group</span>
       <span class="job-location">— Remote</span>
     </div>
-    <p class="job-description">Consulting company assisting clients with technical architecture and business processes</p>
+    <p class="job-description">Privately owned small consulting company consisting of a dozen employees assisting clients with technical architecture and business process management.</p>
     <ul class="responsibilities">
       <li>Supported global IT infrastructure monitoring and reporting initiatives for pharmaceutical clients.</li>
       <li>Modeled and improved business and technical processes to enhance system reliability and visibility.</li>
